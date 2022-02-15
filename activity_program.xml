@@ -11,7 +11,7 @@
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:layout_centerInParent="true"
-		android:text="Welcome to Geeks to Geeks"
+		android:text="Welcome Harshita's and Astha's Android Library"
 		android:textSize="20dp"
 		tools:layout_editor_absoluteX="163dp"
 		tools:layout_editor_absoluteY="334dp" />
