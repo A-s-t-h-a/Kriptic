@@ -1,1 +1,1 @@
-###Only for fork purpose. Please update Readme of your own.
+Kriptic: Android Library For Pin Authentication.
